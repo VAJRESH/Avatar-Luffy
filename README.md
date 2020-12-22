@@ -11,4 +11,4 @@ Black and White Image of Anime Character Luffy I created using a mobile device o
 - SVG
 
 ## Screenshots
-![Avatar](https://github.com/VAJRESH/avatarLuffy/blob/master/resources/avatar.PNG)
+![Avatar](https://github.com/VAJRESH/avatarLuffy/blob/master/resources/luffy.jpg)
